@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "winter-unit-02c6",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "8c0b65b2-0047-434d-ab97-f617a5e68894",
+      "database_name": "winter-unit-02c6-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
